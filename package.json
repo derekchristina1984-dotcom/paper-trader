@@ -1,0 +1,11 @@
+{
+  "name": "paper-trader",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Browser-only stock and crypto paper-trading practice app with connected automation cards. Simulated money only.",
+  "scripts": {
+    "start": "node tools/serve.js 8080",
+    "test": "node --test tests/core.test.js"
+  },
+  "license": "MIT"
+}
